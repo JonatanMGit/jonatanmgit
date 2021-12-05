@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hi 👋, I'm Jonatan</h1>
-<h3>I'm a student learning to code</h3>
+<h3>I'm a student learning to engineer software</h3>
 
 <img
 	src="https://komarev.com/ghpvc/?username=jonatanmgit&label=Profile%20views&color=0e75b6&style=flat-square"
