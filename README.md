@@ -1,4 +1,4 @@
-Software engineer and AI researcher based in the EU. I build embedded systems and open infrastructure.
+Software engineer based in the EU. I build embedded systems and open infrastructure.
 
 I participate in hackathons and competitions, contribute to open source, and operate under the amateur radio callsign **DN9AJ**.
 
@@ -22,6 +22,7 @@ I use Arch btw, with KDE. ❤️ ESP32 and other microcontrollers.
 | [SML-Reader](https://github.com/JonatanMGit/SML-Reader) | W5500-EVB-Pico smart meter reader for Home Assistant |
 | [mr-sweet](https://github.com/JonatanMGit/mr-sweet) | Person-like Discord bot |
 | [url-shortener](https://github.com/JonatanMGit/url-shortener) | Scalable URL shortener |
+| [openmensa-giro-web](https://github.com/JonatanMGit/openmensa-giro-web) | Canteen Feed parser |
 
 ---
 
